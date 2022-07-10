@@ -1,0 +1,7 @@
+Django
+Pillow
+psycopg2-binary
+gunicorn
+python-slugify
+django-debug-toolbar
+django-4-jet
